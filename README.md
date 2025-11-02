@@ -4,6 +4,9 @@ A lightweight Flask-based service that extracts a YouTube livestream .m3u8 HLS U
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M31NTEGN)
 
+See my other repository for a performance-optimized version — it periodically caches and serves links from memory.
+https://github.com/rocket6317/YouTube-Cache-And-Serve-Redirect_Url
+
 ## 🚀 Features
 
 - 🔗 Accepts YouTube livestream URLs 
