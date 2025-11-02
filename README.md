@@ -2,6 +2,8 @@
 
 A lightweight Flask-based service that extracts a YouTube livestream .m3u8 HLS URL and serves it in a way that IPTV players (like OTT Navigator, TiviMate, VLC) can consume — with smart caching.  
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M31NTEGN)
+
 ## 🚀 Features
 
 - 🔗 Accepts YouTube livestream URLs 
